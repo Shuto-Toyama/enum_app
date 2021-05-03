@@ -1,0 +1,15 @@
+current directory: /Users/Stoyama/Rails/enum_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.4/ext/bootsnap
+/Users/Stoyama/.rbenv/versions/2.7.2/bin/ruby -I /Users/Stoyama/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210504-79124-ne82o.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Stoyama/Rails/enum_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/Stoyama/Rails/enum_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/Stoyama/Rails/enum_app/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.7.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210504-79124-agyjbv/bootsnap
